@@ -10,35 +10,35 @@
 
 ### **UI DESIGNS**
 
-## MusicifyappUI
+# MusicifyappUI
 
 ![image](https://github.com/HassaanAhmed60211/fluttercourse/assets/106430586/7014195f-0b0c-4823-9678-936eed429631)
 
-## PizzamaxappUI
+# PizzamaxappUI
 
 ![ssmax](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/2dbc2d31-2476-410d-ac56-f7b357d042fa)
 
-## DigicalcappUI
+# DigicalcappUI
 
 ![ewff](https://github.com/HassaanAhmed60211/fluttercourse/assets/106430586/a0ca54d4-7554-49e2-8857-30a3c847a3fd)
 
-## ShopbagappUI
+# ShopbagappUI
 
 ![dsafsf](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/4b244fb1-0c79-47a0-89fc-4712b8dc492a)
 
-## LoginscreenUI
+# LoginscreenUI
 
 ![login](https://github.com/HassaanAhmed60211/fluttercourse/assets/106430586/6829172b-a4e2-448d-b15f-f5b1b57f1b45)
 
-## LoginscreenUI
+# LoginscreenUI
 
 ![Capture](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/0e5a9ea7-8065-4c5b-9a3a-06eb57a151a7)
 
-## ExamRegistrationForm
+# ExamRegistrationForm
 
 ![image](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/5c01f57a-856f-44a8-b7bb-98599c89a55e)
 
-## TodoApp
+# TodoApp
 
 ![image](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/a8901f7e-56ad-42ab-8658-3683f5eb8880)
 
