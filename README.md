@@ -8,6 +8,10 @@
 
 ![image](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/a8901f7e-56ad-42ab-8658-3683f5eb8880)
 
+## DigiCalcApp
+
+![mockupui45-02](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/0f2f282e-470f-4467-8cc9-3e91db1cfaa4)
+
 # **UI DESIGNS**
 
 ### MusicifyappUI
@@ -18,9 +22,9 @@
 
 ![ssmax](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/2dbc2d31-2476-410d-ac56-f7b357d042fa)
 
-### DigicalcappUI
+## DigiCalcApp
 
-![ewff](https://github.com/HassaanAhmed60211/fluttercourse/assets/106430586/a0ca54d4-7554-49e2-8857-30a3c847a3fd)
+![mockupui45-02](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/0f2f282e-470f-4467-8cc9-3e91db1cfaa4)
 
 ### ShopbagappUI
 
