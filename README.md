@@ -2,13 +2,13 @@
 
 ## Assalam u Alaikum I am Hassaan Ahmed, and I am doing a Bachelor in Computer Science. I have been working in frontend development for the last 2 years and also as a graphic designer.
 
-### PROJECTS
+### **PROJECTS**
 
 ## TodoApp
 
 ![image](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/a8901f7e-56ad-42ab-8658-3683f5eb8880)
 
-### UI DESIGNS
+### **UI DESIGNS**
 
 ## MusicifyappUI
 
