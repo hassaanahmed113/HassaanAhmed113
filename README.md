@@ -22,7 +22,7 @@
 
 ![ssmax](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/2dbc2d31-2476-410d-ac56-f7b357d042fa)
 
-## DigiCalcApp
+### DigiCalcApp
 
 ![mockupui45-02](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/0f2f282e-470f-4467-8cc9-3e91db1cfaa4)
 
