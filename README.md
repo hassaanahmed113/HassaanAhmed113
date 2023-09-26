@@ -4,13 +4,17 @@
 
 # **PROJECTS**
 
-## TodoApp
+## IceCreamShopApp
 
-![image](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/a8901f7e-56ad-42ab-8658-3683f5eb8880)
+![projecticecream-02](https://github.com/HassaanAhmed60211/IceCreamShopApp/assets/106430586/2125f324-71cc-499d-b73e-4e0313a81f53)
 
 ## DigiCalcApp
 
 ![mockupui45-02](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/0f2f282e-470f-4467-8cc9-3e91db1cfaa4)
+
+## TodoApp
+
+![image](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/a8901f7e-56ad-42ab-8658-3683f5eb8880)
 
 # **UI DESIGNS**
 
