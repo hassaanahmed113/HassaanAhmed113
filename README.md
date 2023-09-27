@@ -10,7 +10,7 @@
 
 ## DigiCalcApp
 
-![mockupui45-02](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/0f2f282e-470f-4467-8cc9-3e91db1cfaa4)
+![practicedigicalc-01](https://github.com/HassaanAhmed60211/digitalcalc_app/assets/106430586/70afdeda-f0c8-49b3-8a68-66a507511a37)
 
 ## TodoApp
 
