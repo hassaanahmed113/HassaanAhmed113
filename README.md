@@ -4,9 +4,13 @@
 
 # **PROJECTS**
 
+## PizzaApp
+
+![image](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/7c7c93be-a733-4428-b476-e058f710474c)
+
 ## IceCreamShopApp
 
-![projecticecream-02](https://github.com/HassaanAhmed60211/IceCreamShopApp/assets/106430586/2125f324-71cc-499d-b73e-4e0313a81f53)
+![image](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/9c29d49c-7fe4-459e-af9d-6d1540cf0706)
 
 ## DigiCalcApp
 
