@@ -75,7 +75,7 @@ href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
     <a href="https://hassaanahmed-50583.web.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=My%20Website&message=Visit&color=blue&style=for-the-badge" alt="My Website" />
+<img src="https://img.shields.io/badge/Website-blue?style=flat&logo=website&logoColor=white" alt="Website" />
 </a>
   </a>
 </div>
