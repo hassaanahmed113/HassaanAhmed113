@@ -8,33 +8,29 @@
 
 ![image](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/7c7c93be-a733-4428-b476-e058f710474c)
 
-## IceCreamShopApp
+## [**IceCreamShopApp**](https://github.com/HassaanAhmed60211/IceCreamShopApp)
 
 ![image](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/9c29d49c-7fe4-459e-af9d-6d1540cf0706)
 
-## DigiCalcApp
+## [**DigiCalcApp**](https://github.com/HassaanAhmed60211/digitalcalc_app)
 
 ![practicedigicalc-01](https://github.com/HassaanAhmed60211/digitalcalc_app/assets/106430586/70afdeda-f0c8-49b3-8a68-66a507511a37)
 
-## TodoApp
+## [**TodoApp**](https://github.com/HassaanAhmed60211/fluttercourse/tree/main/flutter_todoapp)
 
 ![image](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/a8901f7e-56ad-42ab-8658-3683f5eb8880)
 
 # **UI DESIGNS**
 
-### MusicifyappUI
+### [**MusicifyappUI**](https://github.com/HassaanAhmed60211/fluttercourse/tree/main/musicifyapp)
 
 ![image](https://github.com/HassaanAhmed60211/fluttercourse/assets/106430586/7014195f-0b0c-4823-9678-936eed429631)
 
-### PizzamaxappUI
+### [**PizzamaxappUI**](https://github.com/HassaanAhmed60211/fluttercourse/tree/main/pizzamaxapp)
 
 ![ssmax](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/2dbc2d31-2476-410d-ac56-f7b357d042fa)
 
-### DigiCalcApp
-
-![mockupui45-02](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/0f2f282e-470f-4467-8cc9-3e91db1cfaa4)
-
-### ShopbagappUI
+### [**ShopbagappUI**](https://github.com/HassaanAhmed60211/fluttercourse/tree/main/shopbagapp)
 
 ![dsafsf](https://github.com/HassaanAhmed60211/HassaanAhmed60211/assets/106430586/4b244fb1-0c79-47a0-89fc-4712b8dc492a)
 
