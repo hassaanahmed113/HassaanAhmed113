@@ -74,8 +74,11 @@ href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="
   <a href="https://www.behance.net/hassaangraphics" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
-    <a href="https://hassaanahmed-50583.web.app/" target="_blank">
-<img src="https://img.shields.io/chrome-web-store/price/:storeId" alt="Website" />
+ <a href="https://hassaanahmed-50583.web.app/" target="_blank" style="text-decoration: none;">
+  <div style="background-color: #1769ff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-flex; align-items: center;">
+    <span style="margin-right: 5px;">Visit</span>
+    <span style="background-color: white; color: #1769ff; padding: 3px 6px; border-radius: 3px; font-size: 12px;">Website</span>
+  </div>
 </a>
   </a>
 </div>
