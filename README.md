@@ -75,10 +75,7 @@ href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
  <a href="https://hassaanahmed-50583.web.app/" target="_blank" style="text-decoration: none;">
-  <div style="background-color: #1769ff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-flex; align-items: center;">
-    <span style="margin-right: 5px;">Visit</span>
-    <span style="background-color: white; color: #1769ff; padding: 3px 6px; border-radius: 3px; font-size: 12px;">Website</span>
-  </div>
+  <img src="https://img.shields.io/static/v1?label=Website&message=Visit&color=1769ff&style=for-the-badge" alt="Website" />
 </a>
   </a>
 </div>
